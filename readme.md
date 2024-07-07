@@ -82,14 +82,6 @@ The following datasets are included in the repository for easy access and testin
 - **Iris**: Famous dataset for multi-class classification featuring three types of Iris plants.
 - **dhrb data**: Custom dataset.
 
-## Usage
-
-To get started with the local setup:
-
-```bash
-git clone https://github.com/pavan98765/NSSVM_python.git
-cd NSSVM_python
-```
 
 ### Notebooks
 
