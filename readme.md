@@ -83,15 +83,6 @@ The following datasets are included in the repository for easy access and testin
 - **dhrb data**: Custom dataset.
 
 
-### Notebooks
-
-Explore the following Jupyter notebooks to understand and interact with the NSSVM algorithm:
-
-- [**NSSVM Notebook**](./nssvm.ipynb): Demonstrates the python implementation of NSSVM on various datasets. Useful for training and evaluating the model effectively.
-- [**Regular SVM Comparison Notebook**](./regular_svm_on_datasets.ipynb): Compares the performance of LibSVM and Linear SVM with NSSVM using the same datasets. Useful for understanding the relative advantages of NSSVM.
-
-These notebooks are designed to provide practical insights and hands-on experience with both NSSVM and traditional SVM techniques.
-
 ## Resources
 
 - [NSSVM Paper on IEEE](https://ieeexplore.ieee.org/document/9415153)
